@@ -130,13 +130,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnav-Chauhan-5&show_icons=true&theme=tokyonight" alt="Arnav's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Chauhan-5&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arnav-Chauhan-5&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Arnav-Chauhan-5&theme=tokyonight" alt="Arnav's GitHub Streak" />
 </p>
