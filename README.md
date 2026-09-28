@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arnav Chauhan</h1>
+<h1 align="center">Arnav Chauhan</h1>
 <h3 align="center">An aspiring Full Stack Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **MERN Stack, Backend Development, Node.js, Express.js, MongoDB, and Data Structures & Algorithms**
+- I’m currently learning **MERN Stack, Backend Development, Node.js, Express.js, MongoDB, and Data Structures & Algorithms**
 
-- 💬 Ask me about **C++, JavaScript, MERN Stack, Backend Development, and DSA**
+- Ask me about **C++, JavaScript, MERN Stack, Backend Development, and DSA**
 
-- 📫 How to reach me **arnavchauhan852@gmail.com**
+- How to reach me **arnavchauhan852@gmail.com**
 
-- ⚡ Fun fact **I enjoy building projects, solving problems, and learning something new every day.**
+- Fun fact **I enjoy building projects, solving problems, and learning something new every day.**
 
 <h3 align="left">Connect with me:</h3>
 
